@@ -4,6 +4,8 @@ Curse words are fun. However, what is better are when they are replaced with cha
 
 ## Install
 
+Add the following to your `Gemfile` and then run `bundle install`.
+
 ```
 gem 'jekyll-curse'
 ```
